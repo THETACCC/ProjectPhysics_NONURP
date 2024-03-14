@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: water
+  m_Shader: {fileID: 4800000, guid: 559585ea39f1d4bc6b605a9f3f32f478, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _albedo:
+        m_Texture: {fileID: 2800000, guid: 39385e1ecf24c4d31baa1fa25828ba12, type: 3}
+        m_Scale: {x: 3, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _albedo2:
+        m_Texture: {fileID: 2800000, guid: 39385e1ecf24c4d31baa1fa25828ba12, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _displacementMap:
+        m_Texture: {fileID: 2800000, guid: bef68e402d67aba44b3d447fbddb0cd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _displacementMap2:
+        m_Texture: {fileID: 2800000, guid: bef68e402d67aba44b3d447fbddb0cd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _displacementMap3:
+        m_Texture: {fileID: 2800000, guid: bef68e402d67aba44b3d447fbddb0cd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _displacementMap4:
+        m_Texture: {fileID: 2800000, guid: bef68e402d67aba44b3d447fbddb0cd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalMap:
+        m_Texture: {fileID: 2800000, guid: e5c4092021a20174ca076e11c75f158f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalMap2:
+        m_Texture: {fileID: 2800000, guid: e5c4092021a20174ca076e11c75f158f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalMap3:
+        m_Texture: {fileID: 2800000, guid: e5c4092021a20174ca076e11c75f158f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalMap4:
+        m_Texture: {fileID: 2800000, guid: e5c4092021a20174ca076e11c75f158f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normalMap5:
+        m_Texture: {fileID: 2800000, guid: e5c4092021a20174ca076e11c75f158f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _depthFog: 10.1
+    - _diffuseLightSteps: 6
+    - _displacement: 0.0484
+    - _displacementIntensity: 1
+    - _gloss: 0.707
+    - _normalIntensity: 0.338
+    - _opacity: 0.564
+    - _opacity_depth: 0.229
+    - _refractionIntensity: 0.5
+    - _refractionIntensity_distort: 0.008
+    - _scale: 17.4
+    - _specularContrast: 100
+    - _specularIntensity: 1
+    - _specularLightSteps: 10
+    - _surfaceIntersectionSize: 1.19
+    m_Colors: []
+  m_BuildTextureStacks: []
